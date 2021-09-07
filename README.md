@@ -1,7 +1,7 @@
-# compleX Bacterial Sample (XBS) variant caller: variant calling core step 1
-# Paper: Comprehensive and accurate genetic variant identification from contaminated and low coverage Mycobacterium tuberculosis whole genome sequencing data.
-# Authors: Tim H. Heupink, Lennert Verboven, Robin M. Warren, Annelies Van Rie.
-# Contact: tim.heupink@uantwerpen.be and lennert.verboven@uantwerpen.be
+# compleX Bacterial Sample (XBS) variant caller.
+Paper: Comprehensive and accurate genetic variant identification from contaminated and low coverage Mycobacterium tuberculosis whole genome sequencing data.
+Authors: Tim H. Heupink, Lennert Verboven, Robin M. Warren, Annelies Van Rie.
+Contact: tim.heupink@uantwerpen.be and lennert.verboven@uantwerpen.be
 
 Introduction.
 The XBS variant caller is designed to call genomic variants from bacterial samples with excessive contamination or low coverage. The nature of the variant filtering also allows XBS to identify variants in complex genomic regions, as long as these have similar statistical annotations (e.g. depth or mapping quality) to the variants provided in the truth set. XBS was designed with Mycobacterium tuberculosis in mind, but is applicable for all bacterial species provided a reference genome and truth variant set are provided.
