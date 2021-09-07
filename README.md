@@ -29,4 +29,6 @@ Next joint-call all the samples of interest that have passes your QC using scrip
 sh XBS_calling_core_step_2_joint_calling_and_filtering.sh (should work on Linux and Mac)
 Where required annotations with insufficient variation (often AS_MQRankSum) can be excluded from VQSR. The script will produce a filtered vcf for both the SNPs and the INDELs.
 
+Future versions will include a more user friendly interface and facilitate high-throughput analysis of large datasets.
+
 Please contact us for any further details.
