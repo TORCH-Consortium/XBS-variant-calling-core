@@ -6,7 +6,7 @@ Contact: tim.heupink@uantwerpen.be and lennert.verboven@uantwerpen.be
 Introduction.
 The XBS variant caller is designed to call genomic variants from bacterial samples with excessive contamination or low coverage. The nature of the variant filtering also allows XBS to identify variants in complex genomic regions, as long as these have similar statistical annotations (e.g. depth or mapping quality) to the variants provided in the truth set. XBS was designed with Mycobacterium tuberculosis in mind, but is applicable for all bacterial species provided a reference genome and truth variant set are provided.
 
-Important note: we are currenlty building this pipeline in Nextflow, so a more user-firendly verion will be available soon.
+Important note: we are currenlty building this pipeline in Nextflow, so a more user-friendly verion will be available soon.
 
 Installation.
 Simply copy the bash scripts to your local machine.
