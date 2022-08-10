@@ -1,4 +1,4 @@
-# compleX Bacterial Sample (XBS) variant caller.
+# compleX Bacterial Sample (XBS) variant calling core.
 Paper: Comprehensive and accurate genetic variant identification from contaminated and low coverage Mycobacterium tuberculosis whole genome sequencing data.
 Authors: Tim H. Heupink, Lennert Verboven, Robin M. Warren, Annelies Van Rie.
 Contact: tim.heupink@uantwerpen.be and lennert.verboven@uantwerpen.be
